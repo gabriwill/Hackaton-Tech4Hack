@@ -9,17 +9,17 @@ Baseadndo em uma hipotética interação cliente-vendedor, o objetivo do uso da 
 ## Configuração e instalação
 Para utilizar esta aplicação é necessário utilizar a versão 10.x do Node.js, para realizar a instalação confira (https://github.com/nvm-sh/nvm). 
 Após a instalação do Node.js, basta clonar esse diretório.
-'''
+```
 git clone https://github.com/renatomneto/Hackaton-Tech4Hack
-'''
+```
 ## Como instalar o banco de dados
 
 
 ## Como executar a aplicação
 Após instalado o Node.js, abra um terminal de sua preferencia e execute o código a seguir:
-'''
+```
 
-'''
+```
 E então, no seu navegador acesse **localhost:3000**, para começar a utilização da aplicação.
 
 ## Como utilizar a aplicação
