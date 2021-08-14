@@ -24,3 +24,4 @@ E então, no seu navegador acesse **localhost:3000**, para começar a utilizaç�
 
 ## Como utilizar a aplicação
 Para utilizar a aplicação, estando no navegador e tendo acessado **localhost:3000**, basta enviar qualquer frase para que a API retorne com as informações e análises prontamente, indicando o nível de satisfação do cliente e a recomendação de ação a ser tomada. 
+Utilizando o **score** da API, para cada faixa específica surgirá uma mensagem de feedback e um sinalizador colorido aparecerá próximo à mensagem, auxiliando a indicar se o cliente está satisfeito (indicador verde), neutro (indicador azul) ou insatisfeito (indicador vermelho).
