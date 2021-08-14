@@ -12,13 +12,11 @@ Após a instalação do Node.js, basta clonar esse diretório.
 ```
 git clone https://github.com/renatomneto/Hackaton-Tech4Hack
 ```
-## Como instalar o banco de dados
-
 
 ## Como executar a aplicação
 Após instalado o Node.js, abra um terminal de sua preferencia com diretório na pasta `/client` e execute o código a seguir:
 ```
-
+npm start
 ```
 E então, no seu navegador acesse **localhost:3000**, para começar a utilização da aplicação.
 
