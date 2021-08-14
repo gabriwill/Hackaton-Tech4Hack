@@ -16,7 +16,7 @@ git clone https://github.com/renatomneto/Hackaton-Tech4Hack
 
 
 ## Como executar a aplicação
-Após instalado o Node.js, abra um terminal de sua preferencia com diretório na pasta '/client' e execute o código a seguir:
+Após instalado o Node.js, abra um terminal de sua preferencia com diretório na pasta `/client` e execute o código a seguir:
 ```
 
 ```
