@@ -16,7 +16,7 @@ git clone https://github.com/renatomneto/Hackaton-Tech4Hack
 ## Como executar a aplicação
 ### Server
 Com o node instalado, abra o terminal na pasta `src/chat/javascript` e execute o comando `npm install` para baixar as dependências necessárias. 
-Após isto instale o `Azure Functions Core Tools` na sua máquina.
+Após isto instale o `Azure Functions Core Tools` na sua máquina e execute o comando abaixo para executar o servidor.
 ``` 
 func start
 ```
