@@ -1,7 +1,7 @@
 # Hackaton-Tech4Hack
 
 ## Criação da Aplicação
-
+A aplicação foi criada para facilitar e auxiliar em atendimentos via chat, para que o atendendente tenha não só um feedback visual (colorido) mas também um feedback por escrito, o auxiliando a tomar decisões e mudar de atitude visando o melhor atendimento ao cliente e também o aumento da satisfação dos clientes para com o atendente, favorecendo ambos os lados.
 
 ## Objetivo da utilização da API do GOTIT
 Baseadndo em uma hipotética interação cliente-vendedor, o objetivo do uso da API foi utilizar a análise dos sentimentos para gerar um feedback baseado no **score** delimitado por faixas bem definidas aos quais o retorno indica a satisfação do cliente e a necessidade de uma intervenção para que se melhore o atendimento.
