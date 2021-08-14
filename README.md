@@ -16,7 +16,7 @@ git clone https://github.com/renatomneto/Hackaton-Tech4Hack
 
 
 ## Como executar a aplicação
-Após instalado o Node.js, abra um terminal de sua preferencia e execute o código a seguir:
+Após instalado o Node.js, abra um terminal de sua preferencia com diretório na pasta '/client' e execute o código a seguir:
 ```
 
 ```
@@ -24,4 +24,4 @@ E então, no seu navegador acesse **localhost:3000**, para começar a utilizaç�
 
 ## Como utilizar a aplicação
 Para utilizar a aplicação, estando no navegador e tendo acessado **localhost:3000**, basta enviar qualquer frase para que a API retorne com as informações e análises prontamente, indicando o nível de satisfação do cliente e a recomendação de ação a ser tomada. 
-Utilizando o **score** da API, para cada faixa específica surgirá uma mensagem de feedback e um sinalizador colorido aparecerá próximo à mensagem, auxiliando a indicar se o cliente está satisfeito (indicador verde), neutro (indicador azul) ou insatisfeito (indicador vermelho).
+Utilizando o **score** da API, para cada faixa específica surgirá uma mensagem de feedback e um sinalizador colorido (bloco envolvendo a mensagem), auxiliando a indicar se o cliente está satisfeito (indicador verde), neutro (indicador azul) ou insatisfeito (indicador vermelho).
